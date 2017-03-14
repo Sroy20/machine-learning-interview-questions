@@ -28,10 +28,10 @@ Someone applying to any one of the above positions is expected to know basics of
 - Statistics and Probability
 - Machine Learning
 
-Note that deeper knowledge of one/more of the above topics might be expected of you depending on the particular position you are interviewing for. This is discussed in the next section.
+Note that deeper knowledge of one/more of the above topics might be expected of you depending on the particular position you are interviewing for. This will be discussed in the next section.
 
 ### What is expected of me in the interviews?
-
+It 
 
 
 
