@@ -32,7 +32,11 @@ All of these are fairly broad topics and sections dedicated to them in this repo
 
 ### What is expected of me in the interviews?
 
-#### Research and Software Engineer: 
+**Research and Software Engineer:** If you are applying to any one of these positions in a Machine Learning group, you should know the basics of the above four topics with emphasis on Computer Science and Machine Learning. In addition, some projects on Machine Learning in GitHub will be helpful to showcase both your knowledge and coding skills.
+
+**Postdoctoral Researcher and Research Scientist:** Apart from the basics, you should know extremely well about one domain of Machine Learning. You should have published multiple papers in this domain. This will show your authority in this topic. Since you are applying for the position of post doc or a scientist you already know what that should be for your case. For example, in my case this topic was Deep Learning. 
+
+**Data Scientist:** If you are interested in a Data Scientist position, after learning the basics, please emphasize more on Statistics and Probability. 
 
 
 
