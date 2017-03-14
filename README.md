@@ -28,10 +28,11 @@ Someone applying to any one of the above positions is expected to know basics of
 - Statistics and Probability
 - Machine Learning
 
-All of these are fairly broad topics and sections dedicated to them in this repo will tell you the specific concepts you should know about. Note that deeper knowledge of one/more of the above topics might be expected of you depending on the particular position you are interviewing for.  
+All of these are fairly broad topics and sections dedicated to them in this repo will tell you the specific concepts you should know about. Note that deeper knowledge of one/more of the above topics might be expected of you depending on the particular position you are interviewing for. This raises our next question. 
 
 ### What is expected of me in the interviews?
-It 
+
+#### Research and Software Engineer: 
 
 
 
