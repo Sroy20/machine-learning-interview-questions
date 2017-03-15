@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-- [What is it?](https://github.com/Sroy20/machine-learning-interview-university/blob/master/README.md#what-is-it
+- [What is it?](https://github.com/Sroy20/machine-learning-interview-university/blob/master/README.md#what-is-it)
 
 ### What is it?
 This is an eclectic collection of study plans, resources and interview questions that will help you in cracking Machine Learning interviews. It will be helpful to someone who is interested in applying for one/more of the following positions in the Machine Learning group of a leading company (Google, Facebook, IBM, Amazon, etc.):
