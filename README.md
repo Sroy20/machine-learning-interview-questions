@@ -24,7 +24,7 @@ This will be useful to someone who is:
 
 To the best of my knowledge, this repo is the only place that takes a thorough yet efficient approach to Machine Learning interview preparation.
 
-### What should I learn?
+### What to learn?
 Someone applying to any one of the above positions is expected to know basics of the following broad topics:
 
 - Computer Science
