@@ -3,6 +3,9 @@
 ### Table of Contents
 
 - [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [What to learn?](#what-to-learn)
+- [What is expected of me in the interviews?](#what-is-expected-of-me-in-the-interviews)
 
 ### What is it?
 This is an eclectic collection of study plans, resources and interview questions that will help you in cracking Machine Learning interviews. It will be helpful to someone who is interested in applying for one/more of the following positions in the Machine Learning group of a leading company (Google, Facebook, IBM, Amazon, etc.):
@@ -38,7 +41,7 @@ All of these are fairly broad topics and sections dedicated to them in this repo
 
 **Research or Software Engineer:** If you are applying to any one of these positions in a Machine Learning group, you should know the basics of the above four topics with emphasis on Computer Science and Machine Learning. In addition, some projects on Machine Learning in GitHub will be helpful to showcase both your knowledge and coding skills.
 
-**Postdoctoral Researcher and Research Scientist:** Apart from the basics, you should know extremely well about one domain of Machine Learning. You should have published multiple papers in this domain. This will demonstrate your authority in this topic. Since you are applying to this position you already know what that would be for your case. For example, in my case this topic was Deep Learning. 
+**Postdoctoral Researcher or Research Scientist:** Apart from the basics, you should know extremely well about one domain of Machine Learning. You should have published multiple papers in this domain. This will demonstrate your authority in this topic. Since you are applying to this position you already know what that would be for your case. For example, in my case this topic was Deep Learning. 
 
 **Data Scientist:** If you are interested in a Data Scientist position, then after learning the basics, please emphasize more on Statistics and Probability. 
 
