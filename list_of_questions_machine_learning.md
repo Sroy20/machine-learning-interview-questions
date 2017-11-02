@@ -34,9 +34,6 @@
 1. What is mutual information and KL divergence?
 1. Describe KL divergence intuitively.
 
-## Miscellaneous
-1. What is the difference between loss function, cost function and objective function?
-
 ## Curse of dimensionality 
 1. Describe the curse of dimensionality with examples.
 1. What is local constancy or smoothness prior or regularization?
@@ -117,3 +114,5 @@
 1. What is Beam Search?
 1. How to automatically caption an image? (CNN + LSTM)
 
+## Miscellaneous
+1. What is the difference between loss function, cost function and objective function?
