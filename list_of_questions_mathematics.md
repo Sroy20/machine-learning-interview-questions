@@ -30,3 +30,64 @@
 1. What is the trace of a scalar?
 1. Write the frobenius norm of a matrix in terms of trace?
 
+## Numerical Optimization
+1. What is underflow and overflow? 
+1. How to tackle the problem of underflow or overflow for softmax function or log softmax function? 
+1. What is poor conditioning? 
+1. What is the condition number? 
+1. What are grad, div and curl?
+1. What are critical or stationary points in multi-dimensions?
+1. Why should you do gradient descent when you want to minimize a function?
+1. What is line search?
+1. What is hill climbing?
+1. What is a Jacobian matrix?
+1. What is curvature?
+1. What is a Hessian matrix?
+
+## Basics of Probability and Informaion Theory
+1. Compare "Frequentist probability" vs. "Bayesian probability"?
+1. What is a random variable?
+1. What is a probability distribution?
+1. What is a probability mass function?
+1. What is a probability density function?
+1. What is a joint probability distribution?
+1. What are the conditions for a function to be a probability mass function?
+1. What are the conditions for a function to be a probability density function?
+1. What is a marginal probability? Given the joint probability function, how will you calculate it?
+1. What is conditional probability? Given the joint probability function, how will you calculate it?
+1. State the Chain rule of conditional probabilities.
+1. What are the conditions for independence and conditional independence of two random variables?
+1. What are expectation, variance and covariance?
+1. Compare covariance and independence.
+1. What is the covariance for a vector of random variables?
+1. What is a Bernoulli distribution? Calculate the expectation and variance of a random variable that follows Bernoulli distribution?
+1. What is a multinoulli distribution?
+1. What is a normal distribution?
+1. Why is the normal distribution a default choice for a prior over a set of real numbers?
+1. What is the central limit theorem?
+1. What are exponential and Laplace distribution?
+1. What are Dirac distribution and Empirical distribution?
+1. What is mixture of distributions?
+1. Name two common examples of mixture of distributions? (Empirical and Gaussian Mixture)
+1. Is Gaussian mixture model a universal approximator of densities?
+1. Write the formulae for logistic and softplus function.
+1. Write the formulae for Bayes rule.
+1. What do you mean by measure zero and almost everywhere?
+1. If two random variables are related in a deterministic way, how are the PDFs related?
+1. Define self-information. What are its units?
+1. What are Shannon entropy and differential entropy?
+1. What is Kullback-Leibler (KL) divergence?
+1. Can KL divergence be used as a distance measure?
+1. Define cross-entropy.
+1. What are structured probabilistic models or graphical models?
+1. In the context of structured probabilistic models, what are directed and undirected models? How are they represented?
+What are cliques in undirected structured probabilistic models?
+
+## Confidence interval
+1. What is population mean and sample mean?
+1. What is population standard deviation and sample standard deviation?
+1. Why population s.d. has N degrees of freedom while sample s.d. has N-1 degrees of freedom? In other words, why 1/N inside root for pop. s.d. and 1/(N-1) inside root for sample s.d.? (Here)
+1. What is the formula for calculating the s.d. of the sample mean?
+1. What is confidence interval?
+1. What is standard error?
+
