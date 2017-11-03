@@ -1,4 +1,4 @@
-# Machine Learning - List of questions
+# Deep Learning - List of questions
 
 ## General questions
 
