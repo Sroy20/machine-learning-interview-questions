@@ -12,3 +12,10 @@
 1. How to find the best hyper parameters? (Random search, grid search, Bayesian search (and what it is?))
 1. What is transfer learning?
 
+## Optimization procedures
+
+1. Explain the difference between an optimization problem and a Machine Learning problem / learning?
+
+
+## Parameter initialization
+
