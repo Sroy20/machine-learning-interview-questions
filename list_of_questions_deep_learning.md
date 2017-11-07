@@ -14,7 +14,7 @@
 
 ## Optimization procedures
 
-1. Explain the difference between an optimization problem and a Machine Learning problem / learning both intuitively and mathematically?
+1. Explain the difference between an optimization problem and a Machine Learning problem both intuitively and mathematically?
 1. How can a learning problem converted into an optimization problem?
 1. What is empirical risk minimization? Why the term empirical? Why do we rarely use it in the context of deep learning?
 1. What is the 0-1 loss function? (http://www.cs.cmu.edu/~yandongl/loss.html)
