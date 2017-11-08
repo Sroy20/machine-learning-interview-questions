@@ -18,7 +18,7 @@
 1. How can a learning problem converted into an optimization problem?
 1. What is empirical risk minimization? Why the term empirical? Why do we rarely use it in the context of deep learning?
 1. What is the 0-1 loss function? (http://www.cs.cmu.edu/~yandongl/loss.html)
-1. Why can't the 0-1 loss function or classification error be used as a loss function for optimizing a deep neural network? 
+1. Why can't the 0-1 loss function or classification error be used as a loss function for optimizing a deep neural network? (Non-convex, gradient is either 0 or undefined. https://davidrosenberg.github.io/ml2015/docs/3a.loss-functions.pdf)
 1. 
 
 
