@@ -3,6 +3,9 @@
 ## Table of Contents
 
 - [General questions](#general-questions)
+- [Machine Learning basics](#machine-learning-basics)
+- [Optimization procedures](#optimization-procedures)
+- [Parameter initialization](#parameter-initialization)
 
 ## General questions
 
@@ -17,7 +20,7 @@
 1. What is transfer learning?
 1. Compare and contrast L1-loss vs. L2-loss and L1-regularization vs. L2-regularization.
 
-## Machine Learning Basics
+## Machine Learning basics
 
 1. Can you state Tom Mitchell's definition of learning and discuss T, P and E?
 1. What can be different types of tasks encountered in Machine Learning?
