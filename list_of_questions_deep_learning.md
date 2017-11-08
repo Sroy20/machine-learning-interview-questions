@@ -34,6 +34,12 @@
 1. Discuss VC dimension.
 1. What are nonparametric models? What is nonparametric learning?
 1. What is an ideal model? What is Bayes error? What is/are the source(s) of Bayes error occur?
+1. What is the no free lunch theorem in connection to Machine Learning?
+1. What is regularization? Intuitively, what does regularization do during the optimization procedure? (expresses preferences to certain solutions, implicitly and explicitly)
+1. What is weight decay? What is it added?
+1. What is a hyperparameter? How do you choose which settings are going to be hyperparameters and which are going to be learnt? (either difficult to optimize or not appropriate to learn - learning model capacity by learning the degree of a polynomial or coefficient of the weight decay term always results in choosing the largest capacity until it overfits on the training set)
+1. Why is a validation set necessary?
+1. 
 
 
 ## Optimization procedures
