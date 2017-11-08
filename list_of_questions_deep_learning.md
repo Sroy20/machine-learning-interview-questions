@@ -11,6 +11,7 @@
 1. Given a black box machine learning algorithm that you can’t modify, how could you improve its error? (you can transform the input for example.)
 1. How to find the best hyper parameters? (Random search, grid search, Bayesian search (and what it is?))
 1. What is transfer learning?
+1. Compare and contrast L1-loss vs. L2-loss and L1-regularization vs. L2-regularization.
 
 ## Optimization procedures
 
