@@ -1,5 +1,9 @@
 # Deep Learning - List of questions
 
+## Table of Contents
+
+- [General questions](#general-questions)
+
 ## General questions
 
 1. How will you implement dropout during forward and backward pass?
