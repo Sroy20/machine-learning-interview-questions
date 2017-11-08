@@ -13,6 +13,22 @@
 1. What is transfer learning?
 1. Compare and contrast L1-loss vs. L2-loss and L1-regularization vs. L2-regularization.
 
+## Machine Learning Basics
+
+1. Can you state Tom Mitchell's definition of learning and discuss T, P and E?
+1. What can be different types of tasks encountered in Machine Learning?
+1. What are supervised, unsupervised, semi-supervised, self-supervised, multi-instance learning, and reinforcement learning?
+1. Loosely how can supervised learning be converted into unsupervised learning and vice-versa?
+1. Consider linear regression. What are T, P and E?
+1. Derive the normal equation for linear regression.
+1. What do you mean by affine transformation? Discuss affine vs. linear transformation.
+1. Discuss training error, test error, generalization error, overfitting, and underfitting.
+1. Compare representational capacity vs. effective capacity of a model.
+1. Discuss VC dimension.
+1. What are nonparametric models? What is nonparametric learning?
+1. What is an ideal model? What is Bayes error? What is/are the source(s) of Bayes error occur?
+
+
 ## Optimization procedures
 
 1. What is the difference between an optimization problem and a Machine Learning problem?
