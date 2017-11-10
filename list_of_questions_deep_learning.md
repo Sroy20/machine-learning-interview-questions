@@ -39,6 +39,7 @@
 1. What is weight decay? What is it added?
 1. What is a hyperparameter? How do you choose which settings are going to be hyperparameters and which are going to be learnt? (either difficult to optimize or not appropriate to learn - learning model capacity by learning the degree of a polynomial or coefficient of the weight decay term always results in choosing the largest capacity until it overfits on the training set)
 1. Why is a validation set necessary?
+1. Compare and contrast the different types of cross-validation.
 1. 
 
 
