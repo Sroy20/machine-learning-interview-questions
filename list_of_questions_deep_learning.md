@@ -6,6 +6,7 @@
 - [Machine Learning basics](#machine-learning-basics)
 - [Optimization procedures](#optimization-procedures)
 - [Parameter initialization](#parameter-initialization)
+- [Sequence Modeling](#sequence-modeling)
 
 ## General questions
 
@@ -57,3 +58,13 @@
 ## Parameter initialization
 
 1. 
+
+## Sequence Modeling
+
+1. Explain the vanishing/exploding gradient phenomenon for recurrent neural networks. (use scalar and vector input scenarios)
+1. Why don't we see the vanishing/exploding gradient phenomenon in feedforward networks? (weights are different in different layers - Random block intialization paper)
+1. What is the key difference in architecture of LSTMs/GRUs compared to traditional RNNs? (Additive update instead of multiplicative)
+1. Explain Gradient Clipping. 
+1. Adam and RMSProp adjust the size of gradients based on previously seen gradients. Do they inherently perform gradient clipping?
+1. Discuss RNNs in the context of Bayesian Machine Learning.
+1. Can we do Batch Normalization in RNNs? If not, what is the alternative? (BNorm would need future data; Layer Norm)
