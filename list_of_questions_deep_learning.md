@@ -7,6 +7,7 @@
 - [Optimization procedures](#optimization-procedures)
 - [Parameter initialization](#parameter-initialization)
 - [Sequence Modeling](#sequence-modeling)
+- [Adversarial Networks](#adversarial-networks)
 
 ## General questions
 
@@ -65,6 +66,12 @@
 1. Why don't we see the vanishing/exploding gradient phenomenon in feedforward networks? (weights are different in different layers - Random block intialization paper)
 1. What is the key difference in architecture of LSTMs/GRUs compared to traditional RNNs? (Additive update instead of multiplicative)
 1. Explain Gradient Clipping. 
-1. Adam and RMSProp adjust the size of gradients based on previously seen gradients. Do they inherently perform gradient clipping?
+1. Adam and RMSProp adjust the size of gradients based on previously seen gradients. Do they inherently perform gradient clipping? 
 1. Discuss RNNs in the context of Bayesian Machine Learning.
 1. Can we do Batch Normalization in RNNs? If not, what is the alternative? (BNorm would need future data; Layer Norm)
+
+## Adversarial Networks
+
+1. Discuss state-of-the-art attack and defense techniques for adversarial models.
+1. 
+
