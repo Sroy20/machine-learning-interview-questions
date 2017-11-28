@@ -62,7 +62,7 @@
 
 ## Sequence Modeling
 
-1. Write the equation describing a dynamical system. Can you unfold it? Now, can you use this to model a RNN? (include hidden, input, output, etc.) 
+1. Write the equation describing a dynamical system. Can you unfold it? Now, can you use this to describe a RNN? (include hidden, input, output, etc.) 
 1. What determines the size of an unfolded graph?
 1. What are the advantages of an unfolded graph? (arbitrary sequence length, parameter sharing, and illustrate information flow during forward and backward pass)
 1. What does the output of the hidden layer of a RNN at any arbitrary time _t_ represent?
@@ -78,6 +78,7 @@
 1. Explain the vanishing/exploding gradient phenomenon for recurrent neural networks. (use scalar and vector input scenarios)
 1. Why don't we see the vanishing/exploding gradient phenomenon in feedforward networks? (weights are different in different layers - Random block intialization paper)
 1. What is the key difference in architecture of LSTMs/GRUs compared to traditional RNNs? (Additive update instead of multiplicative)
+1. What is the difference between LSTM and GRU?
 1. Explain Gradient Clipping. 
 1. Adam and RMSProp adjust the size of gradients based on previously seen gradients. Do they inherently perform gradient clipping? If no, why?
 1. Discuss RNNs in the context of Bayesian Machine Learning.
