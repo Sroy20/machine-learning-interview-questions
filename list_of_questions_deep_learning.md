@@ -58,10 +58,14 @@
 
 ## Parameter initialization
 
-1. 
+1.  
 
 ## Sequence Modeling
 
+1. Write the equation describing a dynamical system. Can you unfold it? Now, can you use this to model a RNN? (include hidden, input, output, etc.)
+1. What does the output of the hidden layer of a RNN at any arbitrary time _t_ represent?
+1. Is the output of a hidden layer of a RNN lossless? If not, why?
+1. RNNs are used for various tasks. From a RNNs point of view, what tasks are more demanding than others? 
 1. Explain the vanishing/exploding gradient phenomenon for recurrent neural networks. (use scalar and vector input scenarios)
 1. Why don't we see the vanishing/exploding gradient phenomenon in feedforward networks? (weights are different in different layers - Random block intialization paper)
 1. What is the key difference in architecture of LSTMs/GRUs compared to traditional RNNs? (Additive update instead of multiplicative)
