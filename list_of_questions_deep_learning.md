@@ -92,12 +92,29 @@
 ## Autoencoders
 
 1. Describe an Autoencoder? What does it "auto-encode"?
+1. What were Autoencoders traditionally used for? Why there has been a resurgence of Autoencoders for generative modeling?
+1. What is recirculation?
 1. What loss functions are used for Autoencoders?
-1. What is a linear autoencoder? Can it be optimal? If yes, under what conditions?
-1. Linear autoencoder vs. PCA - Which one is better in reconstruction? When does a linear Autoencoder turn into PCA?
+1. What is a linear autoencoder? Can it be optimal (lowest training reconstruction error)? If yes, under what conditions?
+1. What is the difference between Autoencoders and PCA (can also be used for reconstruction - https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com).
 1. What is the impact of the size of the hidden layer in Autoencoders?
-1. Discuss ways to handle 
-What is a denoising autoencoder? What are its advantages?
+1. What is an undercomplete Autoencoder? Why is it typically used for? 
+1. What is a linear Autoencoder? Discuss it's equivalence with PCA. (only valid for undercomplete) Which one is better in reconstruction?
+1. What problems might a nonlinear undercomplete Autoencoder face?
+1. What are overcomplete Autoencoders? What problems might they face? Does the scenario change for linear overcomplete autoencoders? (identity function)
+1. Discuss the importance of regularization in the context of Autoencoders.
+1. Why does generative autoencoders not require regularization?
+1. What are sparse autoencoders?
+1. What is a denoising autoencoder? What are its advantages? How does it solve the overcomplete problem?
+1. What is score matching? Discuss it's connections to DAEs.
+1. Are there any connections between Autoencoders and RBMs?
+1. What is manifold learning? How are denoising and contractive autoencoders equipped to do manifold learning? 
+1. What is a contractive autoencoder? Discuss its advantages. How does it solve the overcomplete problem?
+1. Why is a contractive autoencoder named so? (intuitive and mathematical)
+1. What are the practical issues with CAEs? How to tackle them?
+1. What is a stacked autoencoder? What is a deep autoencoder? Compare and contrast.
+1. Compare the reconstruction quality of a deep autoencoder vs. PCA.
+1. What is predictive sparse decomposition?
 1. 
 
 ## Adversarial Networks
