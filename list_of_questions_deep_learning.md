@@ -115,7 +115,7 @@
 1. What is a stacked autoencoder? What is a deep autoencoder? Compare and contrast.
 1. Compare the reconstruction quality of a deep autoencoder vs. PCA.
 1. What is predictive sparse decomposition?
-1. 
+1. Discuss some applications of Autoencoders.
 
 ## Adversarial Networks
 
