@@ -7,6 +7,7 @@
 - [Optimization procedures](#optimization-procedures)
 - [Parameter initialization](#parameter-initialization)
 - [Sequence Modeling](#sequence-modeling)
+- [Autoencoders](#autoencoders)
 - [Adversarial Networks](#adversarial-networks)
 
 ## General questions
@@ -43,7 +44,11 @@
 1. Why is a validation set necessary?
 1. What are the different types of cross-validation? When do you use which one?
 1. What are point estimation and function estimation in the context of Machine Learning? What is the relation between them?
-1. 
+1. What is the maximal likelihood of a parameter vector $theta$? Where does the log come from?
+1. Prove that for linear regression MSE can be derived from maximal likelihood by proper assumptions.
+1. Why is maximal likelihood the preferred estimator in ML? (consistency and efficiency)
+1. Under what conditions do the maximal likelihood estimator guarantee consistency?
+1. What is cross-entropy of loss? (trick question) 
 
 
 ## Optimization procedures
@@ -84,8 +89,19 @@
 1. Discuss RNNs in the context of Bayesian Machine Learning.
 1. Can we do Batch Normalization in RNNs? If not, what is the alternative? (BNorm would need future data; Layer Norm)
 
+## Autoencoders
+
+1. Describe an Autoencoder? What does it "auto-encode"?
+1. What loss functions are used for Autoencoders?
+1. What is a linear autoencoder? Can it be optimal? If yes, under what conditions?
+1. Linear autoencoder vs. PCA - Which one is better in reconstruction? When does a linear Autoencoder turn into PCA?
+1. What is the impact of the size of the hidden layer in Autoencoders?
+1. Discuss ways to handle 
+What is a denoising autoencoder? What are its advantages?
+1. 
+
 ## Adversarial Networks
 
 1. Discuss state-of-the-art attack and defense techniques for adversarial models.
-1. 
+1.  
 
