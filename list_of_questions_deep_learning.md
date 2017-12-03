@@ -8,6 +8,7 @@
 - [Parameter initialization](#parameter-initialization)
 - [Sequence Modeling](#sequence-modeling)
 - [Autoencoders](#autoencoders)
+- [Representation Learning](#representation-learning)
 - [Adversarial Networks](#adversarial-networks)
 
 ## General questions
@@ -116,6 +117,15 @@
 1. Compare the reconstruction quality of a deep autoencoder vs. PCA.
 1. What is predictive sparse decomposition?
 1. Discuss some applications of Autoencoders.
+
+## Representation Learning
+
+1. What is representation learning? Why is it useful? (for a particular architecture, for other tasks, etc.)
+1. What is one-shot and zero-shot learning (Google's NMT)? Give examples.
+1. What trade offs does representation learning have to consider?
+1. What is greedy layer-wise unsupervised pretraining? Why greedy? Why layer-wise? Why unsupervised? Why pretraining?
+1. What were/are the purposes of the above technique? (deep learning problem and initialization)
+1. 
 
 ## Adversarial Networks
 
