@@ -92,7 +92,7 @@
 
 ## Autoencoders
 
-1. Describe an Autoencoder? What does it "auto-encode"?
+1. What is an Autoencoder? What does it "auto-encode"?
 1. What were Autoencoders traditionally used for? Why there has been a resurgence of Autoencoders for generative modeling?
 1. What is recirculation?
 1. What loss functions are used for Autoencoders?
@@ -120,11 +120,18 @@
 
 ## Representation Learning
 
-1. What is representation learning? Why is it useful? (for a particular architecture, for other tasks, etc.)
+1. What is representation learning? Why is it useful? (for a particular architecture, for other tasks, etc.) 
+1. What is the relation between Representation Learning and Deep Learning?
 1. What is one-shot and zero-shot learning (Google's NMT)? Give examples.
 1. What trade offs does representation learning have to consider?
-1. What is greedy layer-wise unsupervised pretraining? Why greedy? Why layer-wise? Why unsupervised? Why pretraining?
+1. What is greedy layer-wise unsupervised pretraining (GLUP)? Why greedy? Why layer-wise? Why unsupervised? Why pretraining?
 1. What were/are the purposes of the above technique? (deep learning problem and initialization)
+1. Why does unsupervised pretraining work?
+1. When does unsupervised training work? Under which circumstances?
+1. Why might unsupervised pretraining act as a regularizer?
+1. What is the disadvantage of unsupervised pretraining compared to other forms of unsupervised learning?
+1. How do you control the regularizing effect of unsupervised pretraining?
+1. How to select the hyperparameters of each stage of GLUP?
 1. 
 
 ## Adversarial Networks
