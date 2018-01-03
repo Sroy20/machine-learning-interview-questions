@@ -79,6 +79,7 @@
 1. What is L1 regularization?
 1. What is L2 regularization?
 1. Compare L1 and L2 regularization.
+1. Why does L1 regularization result in sparse models? [here](https://stats.stackexchange.com/questions/45643/why-l1-norm-for-sparse-models)
 
 ## Evaluation of Machine Learning systems
 1. What are accuracy, sensitivity, specificity, ROC?
