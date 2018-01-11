@@ -86,7 +86,7 @@
 1. What are precision and recall?
 1. Describe t-test in the context of Machine Learning.
 
-## k-means clustering
+## Clustering
 1. Describe the k-means algorithm.
 1. What is distortion function? Is it convex or non-convex?
 1. Tell me about the convergence of the distortion function.
