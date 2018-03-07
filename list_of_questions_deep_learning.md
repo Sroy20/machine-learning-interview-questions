@@ -9,6 +9,7 @@
 - [Sequence Modeling](#sequence-modeling)
 - [Autoencoders](#autoencoders)
 - [Representation Learning](#representation-learning)
+- [Monte Carlo Methods](#monte-carlo-methods)
 - [Adversarial Networks](#adversarial-networks)
 
 ## General questions
@@ -133,6 +134,15 @@
 1. How do you control the regularizing effect of unsupervised pretraining?
 1. How to select the hyperparameters of each stage of GLUP?
 1. 
+
+## Monte Carlo Methods
+
+1. What are deterministic algorithms? (nothing random)
+2. What are Las vegas algorithms? (exact or no solution, random resources)
+3. What are deterministic approximate algorithms? (solution is not exact but the error is known)
+4. What are Monte Carlo algorithms? (approximate solution with random error)
+5. 
+
 
 ## Adversarial Networks
 
