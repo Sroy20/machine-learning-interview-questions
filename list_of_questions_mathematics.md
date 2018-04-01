@@ -28,16 +28,21 @@
 1. What is an orthogonal matrix? Why is computationally preferred? (a square matrix whose rows are mutually orthonormal and columns are mutually orthonormal.)
 1. What is eigendecomposition, eigenvectors and eigenvalues?
 1. How to find eigen values of a matrix?
-1. Write the eigendecomposition formala for a matrix. If the matrix is real symmetric, how will this change?
+1. Write the eigendecomposition formula for a matrix. If the matrix is real symmetric, how will this change?
+1. Is the eigendecomposition guaranteed to be unique? If not, then how do we represent it?
 1. What are positive definite, negative definite, positive semi definite and negative semi definite matrices?
 1. What is SVD? Why do we use it? Why not just use ED?
 1. Given A, how will you calculate its SVD?
 1. What are singular values, left singulars and right singulars?
+1. What is the connection of SVD of A with functions of A?
+1. Why are singular values always non-negative?
 1. What is the Moore Penrose pseudo inverse and how to calculate it?
 1. If we do Moore Penrose pseudo inverse on Ax = b, what solution is provided is A is fat? Moreover, what solution is provided if A is tall?
 1. Which matrices can be decomposed by ED? (Any NxN square matrix with N linearly independent eigenvectors)
 1. Which matrices can be decomposed by SVD? (Any matrix; V is either conjugate transpose or normal transpose depending on whether A is complex or real)
 1. What is the trace of a matrix?
+1. How to write Frobenius norm of a matrix A in terms of trace?
+1. Why is trace of a multiplication of matrices invariant to cyclic permutations?
 1. What is the trace of a scalar?
 1. Write the frobenius norm of a matrix in terms of trace?
 
