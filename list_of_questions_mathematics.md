@@ -2,18 +2,29 @@
 
 ## Linear Algebra
 1. What is broadcasting in connection to Linear Algebra?
-1. What is a tensor?
+1. What are scalars, vectors, matrices, and tensors?
+1. What is Hadamard product of two matrices?
+1. What is an inverse matrix?
 1. If inverse of a matrix exists, how to calculate it?
 1. What is the determinant of a square matrix? How is it calculated (Laplace expansion)? What is the connection of determinant to eigenvalues?
 1. Discuss span and linear dependence.
 1. What is Ax = b? When does Ax =b has a unique solution? 
 1. In Ax = b, what happens when A is fat or tall?
+1. When does inverse of A exist?
 1. What is a norm? What is L1, L2 and L infinity norm?
 1. What are the conditions a norm has to satisfy?
 1. Why is squared of L2 norm preferred in ML than just L2 norm?
 1. When L1 norm is preferred over L2 norm?
 1. Can the number of nonzero elements in a vector be defined as L0 norm? If no, why?
 1. What is Frobenius norm?
+1. What is a diagonal matrix? (D_i,j = 0 for i != 0)
+1. Why is multiplication by diagonal matrix computationally cheap? How is the multiplication different for square vs. non-square diagonal matrix?
+1. At what conditions does the inverse of a diagonal matrix exist? (square and all diagonal elements non-zero)
+1. What is a symmetrix matrix? (same as its transpose)
+1. What is a unit vector?
+1. When are two vectors x and y orthogonal? (x.T * y = 0)
+1. At R^n what is the maximum possible number of orthogonal vectors with non-zero norm?
+1. When are two vectors x and y orthonormal? (x.T * y = 0 and both have unit norm)
 1. What is an orthogonal matrix? Why is computationally preferred? (a square matrix whose rows are mutually orthonormal and columns are mutually orthonormal.)
 1. What is eigendecomposition, eigenvectors and eigenvalues?
 1. How to find eigen values of a matrix?
