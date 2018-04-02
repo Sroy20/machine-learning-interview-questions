@@ -32,7 +32,7 @@
 1. Is the eigendecomposition guaranteed to be unique? If not, then how do we represent it?
 1. What are positive definite, negative definite, positive semi definite and negative semi definite matrices?
 1. What is SVD? Why do we use it? Why not just use ED?
-1. Given A, how will you calculate its SVD?
+1. Given a matrix A, how will you calculate its SVD?
 1. What are singular values, left singulars and right singulars?
 1. What is the connection of SVD of A with functions of A?
 1. Why are singular values always non-negative?
