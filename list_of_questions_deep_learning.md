@@ -50,8 +50,8 @@
 1. Prove that for linear regression MSE can be derived from maximal likelihood by proper assumptions.
 1. Why is maximal likelihood the preferred estimator in ML? (consistency and efficiency)
 1. Under what conditions do the maximal likelihood estimator guarantee consistency?
-1. What is cross-entropy of loss? (trick question) 
-
+1. What is cross-entropy of loss? (trick question)
+1. Time-series problem: How do we select a training set, validation set and test set?
 
 ## Optimization procedures
 
@@ -65,7 +65,7 @@
 
 ## Parameter initialization
 
-1.  
+1. What methods can we use for optimal parameter selection?
 
 ## Sequence Modeling
 
@@ -141,11 +141,15 @@
 2. What are Las vegas algorithms? (exact or no solution, random resources)
 3. What are deterministic approximate algorithms? (solution is not exact but the error is known)
 4. What are Monte Carlo algorithms? (approximate solution with random error)
-5. 
+5. What is Monte Carlo Tree Search?
 
 
 ## Adversarial Networks
 
 1. Discuss state-of-the-art attack and defense techniques for adversarial models.
-1.  
+2. What is game theory and how is it relevant for adversarial models? 
+
+## Genetic algorithms
+
+1. Discuss Neuroevolution
 
