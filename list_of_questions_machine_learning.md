@@ -48,6 +48,19 @@
 1. In standard Machine Learning vs. Deep Learning, how is the order of number of samples related to the order of regions that can be recognized in the function space?
 1. What are the reasons for choosing a deep model as opposed to shallow model? (1. Number of regions O(2^k) vs O(k) where k is the number of training examples 2. # linear regions carved out in the function space depends exponentially on the depth. )
 1. How Deep Learning tackles the curse of dimensionality? 
+1. What is the problem of vanishing gradient in deep networks? How can you tackle it?
+
+## Linear Regression
+1. What will happen if we have co-linear features?
+1. What if we have more features than the number of observations?
+
+## Naive Bayes
+1. How to regularized?
+1. What is the effect of co-linear features? (Naive Bayes assumption fails, same feature is counted twice)
+
+## Logistic Regression
+1. Will Logistic Regression always converge? On what conditions will it never converge or always converge? (in case of perfect seperation, infinite possibilities)
+1. What is the effect of co-linear features? (Not much if we want to focus only on the prediction, but the corresponding weights may fail to converge to final number). Can we remove colinear features using regularization? (Maybe L1 can help, can induce sparsity and force one of the feature weight to 0)
 
 ## Support Vector Machine
 1. How can the SVM optimization function be derived from the logistic regression optimization function?
@@ -85,6 +98,8 @@
 1. What are accuracy, sensitivity, specificity, ROC?
 1. What are precision and recall?
 1. Describe t-test in the context of Machine Learning.
+1. How will you evaluate a model which have multiple classes? What if there is a class imbalance?
+1. What is AUC-ROC and AUC-Precision-recall-curve? 
 
 ## Clustering
 1. Describe the k-means algorithm.
@@ -95,6 +110,13 @@
 1. Describe the EM algorithm intuitively. 
 1. What are the two steps of the EM algorithm
 1. Compare GMM vs GDA.
+1. What would be the effect of using K-medians over K-means clustering? Any changes in distance metric to be used?
+1. How will you define the number of clusters in a clustering algorithm?
+
+## HMM
+
+## CRF
+
 
 ## Dimensionality Reduction
 1. Why do we need dimensionality reduction techniques? (data compression, speeds up learning algorithm and visualizing data)
@@ -117,3 +139,5 @@
 
 ## Miscellaneous
 1. What is the difference between loss function, cost function and objective function?
+1. What is the difference between 1-v-1 classifiers and 1-v-all classifers in case of multi-class classification problem?
+1. Generative vs Discriminative models?
